@@ -1,0 +1,12 @@
+/Users/achernovsky/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.deps.json
+/Users/achernovsky/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.runtimeconfig.json
+/Users/achernovsky/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.runtimeconfig.dev.json
+/Users/achernovsky/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.dll
+/Users/achernovsky/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.pdb
+/Users/achernovsky/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.csprojAssemblyReference.cache
+/Users/achernovsky/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.AssemblyInfoInputs.cache
+/Users/achernovsky/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.AssemblyInfo.cs
+/Users/achernovsky/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.csproj.CoreCompileInputs.cache
+/Users/achernovsky/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.dll
+/Users/achernovsky/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.pdb
+/Users/achernovsky/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.genruntimeconfig.cache
