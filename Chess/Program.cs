@@ -1020,6 +1020,7 @@ namespace Chess
             this.bishop = bishop;
             this.rook = rook;
         }
+
         //Queen's moves are combined of Rook and Bishop moves
         public override void getValidMoves(ChessBoard board, int rank, int file)
         {
